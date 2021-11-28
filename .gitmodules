@@ -1,0 +1,3 @@
+[submodule "Bilibili-live-danmaku"]
+	path = Bilibili-live-danmaku
+	url = git@github.com:Dengzixu/Bilibili-live-danmaku.git
