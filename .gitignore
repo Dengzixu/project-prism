@@ -1,6 +1,8 @@
 
 /src/main/resources/static
 
+*.mwb
+
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,intellij+all,eclipse,jetbrains+all,maven,gradle,git,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,intellij+all,eclipse,jetbrains+all,maven,gradle,git,visualstudiocode
 
